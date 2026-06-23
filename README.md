@@ -65,6 +65,7 @@ nifty-stock-market-analysis/
 ├── scripts/
 │   ├── data_fetch.py
 │   ├── analysis.py
+│   ├── backtesting.py
 │   ├── backtesting_all.py
 │   └── data_insertion_to_table.py
 ├── sql/
@@ -72,6 +73,7 @@ nifty-stock-market-analysis/
 ├── outputs/
 │   ├── stock_summary_metrics_sample.csv
 │   └── backtest_all_stocks_sample.csv
+│   └── all_chart_data.csv
 └── dashboard/
     └── screenshots/
 ```
