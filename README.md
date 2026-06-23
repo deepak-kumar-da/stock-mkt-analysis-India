@@ -1,4 +1,4 @@
-# stock-mkt-analysis-India
+# NSE Stock Market Analysis
 
 End-to-end analytics analyzing 1991 NSE-listed Indian equities: data collection, risk-adjusted return analysis, and backtesting of a moving-average crossover trading strategy against passive buy-and-hold investing.
 
@@ -35,7 +35,7 @@ This is a real, counter-intuitive insight: simple trend-following rules that wor
 
 ## Dashboard Preview
 
-*(Add 2-3 screenshots here: Overview page, Risk vs Return scatter, Stock Explorer with crossover markers)*
+<img width="808" height="456" alt="gif" src="https://github.com/user-attachments/assets/d67b0004-90a6-4a92-b4be-0dd6e861b9e9" />
 
 ## How to Run
 
